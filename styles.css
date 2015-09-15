@@ -1,0 +1,11 @@
+table, th, td {
+    border: 1px dotted gray;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+}
+
+input {
+	margin: 10px 0px;
+}
